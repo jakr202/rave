@@ -9,7 +9,8 @@ start_time = time.time()
 bulkpath = Path.home()/'PycharmProjects/TM470/handHistory-24264.txt'
 manypath = Path.home()/'OneDrive/Documents/pokerHistory/Jakr1'
 
-'''run one tupletourlist depending on whether the bulk file or the many single files needs to be processed'''
+'''run one tupletourlist depending on if I make random changs what happens 
+whether the bulk file or the many single files needs to be processed'''
 
 # tupletourlist = d4.loadbulklist(bulkpath)
 tupletourlist = d4.loadmanylist(manypath)
